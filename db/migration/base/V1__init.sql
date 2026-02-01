@@ -1,0 +1,4 @@
+-- Initializes the database schema
+
+CREATE SCHEMA IF NOT EXISTS PUBLIC;
+SET SCHEMA PUBLIC;
